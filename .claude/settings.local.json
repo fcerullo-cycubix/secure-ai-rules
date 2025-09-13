@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(git add:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Read(//var/folders/t_/8lfqtlyn33l8lrdhwlhm2vtw0000gn/T/TemporaryItems/NSIRD_screencaptureui_oFl4Fl/**)",
+      "Bash(npm run build:*)"
     ],
     "deny": [],
     "ask": []
