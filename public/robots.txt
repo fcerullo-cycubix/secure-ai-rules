@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://secure-ai-dev.cycubix.com/sitemap.xml
+
+# Crawl-delay for politeness
+Crawl-delay: 1
