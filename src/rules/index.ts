@@ -1,8 +1,4 @@
 import { Rule } from '../components/SecureAIDirectory';
-import secretsManagement from './secrets-management';
-import supplyChain from './supply-chain';
-import accessControl from './access-control';
-import governance from './governance';
 import angularSecurity from './angular-security';
 import rubySecurity from './ruby-security';
 import pythonSecurity from './python-security';
@@ -11,10 +7,6 @@ import javaSecurity from './java-security';
 import dotnetSecurity from './dotnet-security';
 
 const allRules = [
-  secretsManagement,
-  supplyChain,
-  accessControl,
-  governance,
   angularSecurity,
   rubySecurity,
   pythonSecurity,
